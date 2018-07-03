@@ -1,7 +1,6 @@
 # iOS-URLscheme  
 
 
----
 
 蜂窝网络：prefs:root=MOBILE_DATA_SETTINGS_ID  
 VPN — prefs:root=General&path=Network/VPN  
@@ -37,7 +36,8 @@ Safari — prefs:root=Safari
 Siri — prefs:root=General&path=Assistant  
 Sounds — prefs:root=Sounds  
 
-## Software Update   prefs:root=General&path=SOFTWARE_UPDATE_LINK  
+## Software Update   
+prefs:root=General&path=SOFTWARE_UPDATE_LINK  
 Store — prefs:root=STORE  
 Twitter — prefs:root=TWITTER  
 Usage — prefs:root=General&path=USAGE  
